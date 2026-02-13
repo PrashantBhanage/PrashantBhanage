@@ -1,66 +1,118 @@
-<h1 align="center">Hi 👋, I'm Prashant Bhanage</h1>
-<h3 align="center">🚀 BCA Student | Aspiring Backend Software Engineer</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1D2671&height=180&section=header&text=🚀%20Prashant%20Bhanage%20|%20Java%20Backend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<img src="./assets/videos/char.gif" alt="Zenstu" width="1200" height="250">
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/PrashantBhanage">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=278997&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Prashant+Bhanage;>+Java+Backend+Developer;Building+Real+World+Applications;>+Let's+Build+Something+Awesome!">
+  </a>
+</p>
+
+<!-- Profile views counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=PrashantBhanage&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## ⚡ Tech Identity
+
+**NAME** :  Prashant Bhanage  
+**ROLE** :  Final Year BCA Student | Java Backend Developer  
+**FOCUS** :  Backend Development | Java | SQL | DBMS | Real-World Projects  
+**CLOUD** :  Learning Cloud Fundamentals  
+**EXPLORING** :  Backend Systems | APIs | Problem-Solving | System Design | Aptitude  
+**VISION** :  Build scalable real-world applications while strengthening core CS fundamentals  
+**MOTTO** :  You cannot see the future without seeing the past  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrashantBhanage&label=Profile%20Views&color=0e75b6&style=flat" alt="PrashantBhanage" />
+  <!-- Languages & Frontend -->
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
 </p>
 
-
-### 🔗 Connect with me
-
-<p>
-<a href="https://www.linkedin.com/in/imprashantbhanage" target="_blank" style="text-decoration:none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/PrashantBhanage" target="_blank" style="text-decoration:none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="36" height="36"/>
-</a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/PrashantBhanage/" target="_blank" style="text-decoration:none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="36" height="36"/>
-</a>
+<p align="center">
+  <!-- Backend, DB & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
 </p>
 
+---
 
-### 🛠️ Skills & Technologies
+## 📊 GitHub Stats & Streak
 
-**Languages & Databases:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-
-**Web Technologies:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Tools & Frameworks:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashantBhanage&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
+  <img src="./assets/videos/Legend.gif" alt="Zenstu" height="200" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantBhanage&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
 
 ---
 
-### 💼 Projects
-
-**🌦️ WeatherApp (Full-Stack Backend Project)**  
-> Developed a weather-based web application using **Java HttpServer**, **HTML, CSS, JavaScript**, and **MySQL**.  
-> Focused on **backend logic**, **authentication**, **session handling**, and **database integration**.
-
-**📝 BlogPress (Blog Management Web Application)**  
-> Built a blog management web application where users can **create, edit, and publish blog posts**.  
-> Focused on **server-side rendering**, **CRUD operations**, and **database-driven content management**  
-> using **Java**, **HTML**, **CSS**, and **MySQL**.
+<p align="center">
+  <img src="./assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 
 ---
 
-### 🏆 Achievements
+## 🚀 Projects
 
-- Built complete **backend-focused projects** from scratch  
-- Hands-on experience with **Java, MySQL, and Linux**  
-- Regularly practicing **logical problem-solving**  
-- Actively improving **English communication** for interviews  
+### 🌦 Weather Application
+- Real-time weather forecasting system using Java HttpServer & LiveWeatherAPI  
+- Frontend built with HTML & CSS  
+- MySQL database integration for data management  
+
+**Tech Stack:** Java, HttpServer, LiveWeatherAPI, HTML, CSS, MySQL  
 
 ---
 
+### 🧠 NeuroLearn
+- Educational learning platform with Java backend  
+- Interactive frontend using HTML, CSS, JavaScript  
+- Voice → Text-to-Speech functionality  
+- Structured storage using MySQL  
+
+**Tech Stack:** Java, HttpServer, MySQL, HTML, CSS, JavaScript  
+
+---
+
+## 📜 Certifications
+
+- Deloitte Technology Job Simulation — Coding & Development  
+- Java Programming Fundamentals — Infosys Springboard  
+- SQL for Beginners — Scaler  
+- Introduction to Artificial Intelligence — Simplilearn  
+
+---
+
+## 🧠 Developer Links
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/imprashantbhanage/" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
+  <a href="https://github.com/PrashantBhanage" target="_blank" title="GitHub"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
+  <a href="https://www.instagram.com/prssshhhhh" target="_blank" title="Instagram"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
+  <a href="https://x.com/m24xprashu" target="_blank" title="X"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter"></a>
+  <a href="mailto:prashantbhanage717@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail"></a>
+  <a href="/mnt/data/PrashantBhanageResume.pdf" target="_blank" title="Resume"><img src="https://img.icons8.com/plasticine/40/000000/resume.png" alt="Resume"></a>
+</div>
+
+---
+
+**Liked what you see?**  
+Follow me on [GitHub](https://github.com/PrashantBhanage) and ⭐ repositories you like!
+
+Your support keeps me motivated to build more real-world projects 🚀
