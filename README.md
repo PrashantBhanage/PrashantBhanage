@@ -41,6 +41,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+## 🧠 Developer Links
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/imprashantbhanage/" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
+  <a href="https://github.com/PrashantBhanage" target="_blank" title="GitHub"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
+  <a href="https://www.instagram.com/prssshhhhh" target="_blank" title="Instagram"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
+  <a href="https://x.com/m24xprashu" target="_blank" title="X"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter"></a>
+  <a href="mailto:prashantbhanage717@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail"></a>
+  <a href="/mnt/data/PrashantBhanageResume.pdf" target="_blank" title="Resume"><img src="https://img.icons8.com/plasticine/40/000000/resume.png" alt="Resume"></a>
+</div>
+
+---
 
 ### 💼 Projects
 
