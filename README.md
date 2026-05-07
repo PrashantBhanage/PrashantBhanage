@@ -100,7 +100,7 @@ A Java-based learning platform designed to deliver structured lessons, quizzes, 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://prahsant-new-portfolio-0927.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PrashantBhanage)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m24xprashu)
-[![Resume](https://img.shields.io/badge/Resume-%23E53935.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
+[![Resume](https://img.shields.io/badge/Resume-%23E53935.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11rIAKmeUkU585BO4swLrH6QjA2WWgPVx/view?usp=drive_link)
 
 ---
 
