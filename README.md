@@ -1,6 +1,6 @@
-# 💫 About Me:
+# About Me:
 
-👋 Hi there, I'm **Prashant Bhanage**. I'm a Backend Development enthusiast and a Java engineer focused on building real-world, production-ready systems. I'm currently diving deep into Backend Engineering, Spring Boot, REST API Development, and Database Design through hands-on projects that solve real problems.
+Hi there, I'm **Prashant Bhanage**. I'm a Backend Development enthusiast and a Java engineer focused on building real-world, production-ready systems. I'm currently diving deep into Backend Engineering, Spring Boot, REST API Development, and Database Design through hands-on projects that solve real problems.
 
 My goal is to become a skilled Backend Software Engineer while building clean, scalable, and secure applications from scratch. I work with **Java, Spring Boot, Spring Security, JWT, MySQL, and JDBC** for backend systems; **HTML, CSS, and JavaScript** for frontend basics; and **Git, GitHub, Linux, Docker, and Postman** for tooling and workflow. Currently sharpening my skills in advanced Spring Boot concepts, JWT-based authentication, REST API design, layered architecture, and real-world deployment practices.
 
