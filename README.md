@@ -12,7 +12,7 @@ My key interests include building secure backend systems, designing efficient da
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imprashantbhanage)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrashantBhanage)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://prahsant-new-portfolio-0927.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://prashcreates.lovable.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PrashantBhanage)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m24xprashu)
 [![Resume](https://img.shields.io/badge/Resume-%23E53935.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11rIAKmeUkU585BO4swLrH6QjA2WWgPVx/view?usp=drive_link)
