@@ -6,6 +6,8 @@ My goal is to become a skilled Backend Software Engineer while building clean, s
 
 My key interests include building secure backend systems, designing efficient database schemas, implementing role-based access control, and solving real-world engineering problems through clean modular code. At the moment, my primary focus is on strengthening backend fundamentals, understanding full-stack Java workflows, and expanding my technical depth alongside practical problem-solving.
 
+![Profile Views](https://komarev.com/ghpvc/?username=PrashantBhanage&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 ---
 
 ## 🔗 Let's Connect:
@@ -59,6 +61,12 @@ My key interests include building secure backend systems, designing efficient da
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
+<div align="center">
+
+![snake gif](https://github.com/PrashantBhanage/PrashantBhanage/blob/output/github-snake-dark.svg)
+
+</div>
+
 ---
 
 ## 💼 Projects:
@@ -103,5 +111,7 @@ A Java-based learning platform designed to deliver structured lessons, quizzes, 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+
 
 ⭐ *This profile reflects my journey in Backend Engineering and Java Development, showcasing my projects, skills, and continuous growth in technology.*
