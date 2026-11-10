@@ -17,7 +17,7 @@ My key interests include building secure backend systems, designing efficient da
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://prashcreates.lovable.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PrashantBhanage)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m24xprashu)
-[![Resume](https://img.shields.io/badge/Resume-%23E53935.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11rIAKmeUkU585BO4swLrH6QjA2WWgPVx/view?usp=drive_link)
+[![Resume](https://docs.google.com/document/d/1k-HC_pXgmCwyS8OM5U3JM8NenO320Pnz/edit?usp=drive_link&ouid=112251703121378350718&rtpof=true&sd=true)
 
 ---
 
